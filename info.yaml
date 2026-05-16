@@ -1,7 +1,7 @@
 
 # Tiny Tapeout project information
 project:
-  title:        "SpongeBob SquarePants"      # Project title
+  title:        "SpongeBobSquarePants"      # Project title
   author:       "James"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "SpongeBobBouncing"      # One line description of what your project does
